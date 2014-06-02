@@ -1,0 +1,11 @@
+name: permissions
+version: 1.0
+main: com.ep3.perms.Core
+author: Aussie_Jhawking
+description: Permissions!
+
+
+commands:
+    perms:
+       usage: /<command>
+       description: Perms Test!
